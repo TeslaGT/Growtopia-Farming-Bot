@@ -25,3 +25,10 @@ Set "Block ID" to value from the status bar (either foreground or background).
 Press Start (or Alt+S) to start breaking.
 The tool will keep breaking until there are no more blocks or you manually cancel it.
 You can configure the tool to break multiple rows automatically. For that you will need to specify "Door ID" and end-of-row script, and enable the feature.
+
+
+How to use?
+1. Download any Injector GH Injector or The E Injector will most likely work )
+2. Use Manual Map(NtCreateThredEx || Thread Hijacking)
+3. Inject into growtopia.exe(For Growtopia, Growtopiaprocess.exe.
+4. Have a fun :3
